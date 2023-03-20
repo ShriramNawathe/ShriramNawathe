@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Stream **Instrumentation Engineering 2022**
 
-- 🌱 I’m currently learning **ReactJS and Backend Development**
+- 📝 I’m currently learning **ReactJS and Backend Development**
  
 - 💬 Ask me about **HTML,CSS,Javascript and ReactJs**
 
