@@ -1,4 +1,4 @@
-### Hi there 👋
+//### Hi there 👋
 
 <!--
 **ShriramNawathe/ShriramNawathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Shriram Rajeshwar Nawathe</h1>
+<h1 align="center">Hello there👋, I'm Shriram Rajeshwar Nawathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" height="300" width="550" style="margin-top:15px;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
