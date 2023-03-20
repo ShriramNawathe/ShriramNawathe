@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello there👋, I'm Shriram Rajeshwar Nawathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" height="300" width="350" style="margin-top:15px;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="Coding" height="350" width="450" style="margin-top:15px;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriramnawathe&label=Profile%20views&color=0e75b6&style=flat" alt="shriramnawathe" /> </p>
 
