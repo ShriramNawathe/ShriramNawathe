@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hello there👋, I'm Shriram Rajeshwar Nawathe</h1>
+<h1 align="center">Hello there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Shriram Rajeshwar Nawathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 <img align="right" alt="Coding" height="350" width="450" style="margin-top:15px;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
